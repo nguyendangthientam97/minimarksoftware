@@ -1,0 +1,80 @@
+D:\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\bin\Debug\QL_BanHang_DotNet.exe.config
+D:\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\bin\Debug\QL_BanHang_DotNet.exe
+D:\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\bin\Debug\QL_BanHang_DotNet.pdb
+D:\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.csprojResolveAssemblyReference.cache
+D:\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmBaoCaoDoanhThuNam.resources
+D:\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmBaoCaoDoanhThuQuy.resources
+D:\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmBaoCaoDoanhThuThang.resources
+D:\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmBaoCaoDonDacHang.resources
+D:\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmBaoCaoHoaDonBanHang.resources
+D:\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmDangNhap.resources
+D:\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmDangKyTaiKhoan.resources
+D:\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmGioiThieuThongTinSanPham.resources
+D:\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmHangGiamGia.resources
+D:\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmHoaDonBanHang.resources
+D:\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmHoaDonDacHang.resources
+D:\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmHoaDonNhapHang.resources
+D:\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmKhachHang.resources
+D:\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmLoaiHang.resources
+D:\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmMatHang.resources
+D:\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmNhaCungCap.resources
+D:\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmNhanVien.resources
+D:\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmNhaSanXuat.resources
+D:\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmTrangChu.resources
+D:\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.Properties.Resources.resources
+D:\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.csproj.GenerateResource.Cache
+D:\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.exe
+D:\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.pdb
+D:\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmDoiMatKhau.resources
+D:\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.Practice1.resources
+D:\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmTrangThaiHangHoa.resources
+D:\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmInHoaDonBanHang.resources
+D:\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\RdlCompile.cache
+D:\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\RdlCompile.compiled
+D:\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmBaoCaoDoanhThu.resources
+D:\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmInBaoCaoDoanhThuBanHang.resources
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\bin\Debug\QL_BanHang_DotNet.exe.config
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\bin\Debug\QL_BanHang_DotNet.exe
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\bin\Debug\QL_BanHang_DotNet.pdb
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.csprojResolveAssemblyReference.cache
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmBaoCaoDoanhThu.resources
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmBaoCaoDoanhThuNam.resources
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmBaoCaoDoanhThuQuy.resources
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmBaoCaoDoanhThuThang.resources
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmBaoCaoDonDacHang.resources
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmBaoCaoHoaDonBanHang.resources
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmDangNhap.resources
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmDangKyTaiKhoan.resources
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmDoiMatKhau.resources
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmGioiThieuThongTinSanPham.resources
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmHangGiamGia.resources
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmHoaDonBanHang.resources
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmHoaDonDacHang.resources
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmHoaDonNhapHang.resources
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmInBaoCaoDoanhThuBanHang.resources
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmInHoaDonBanHang.resources
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmKhachHang.resources
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmNhanvien.resources
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmLoaiHang.resources
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmMatHang.resources
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmNhaCungCap.resources
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmNhaSanXuat.resources
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmTrangChu.resources
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.frmTrangThaiHangHoa.resources
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.Properties.Resources.resources
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.csproj.GenerateResource.Cache
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.csproj.CoreCompileInputs.cache
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.exe
+E:\C# .NET\Project DotNet\BanhangDotNet\QL_BanHang_DotNet\obj\Debug\QL_BanHang_DotNet.pdb
